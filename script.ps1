@@ -7,4 +7,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 RefreshEnv
 
+choco install git vscode -a 
+
 
